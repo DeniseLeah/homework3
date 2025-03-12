@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/smalc/DataspellProjects/homework3/mlruns/888420775363653539/acb1314401d54773ae4c8c9fb79b53e7/artifacts
+end_time: 1741809324289
+entry_point_name: ''
+experiment_id: '888420775363653539'
+lifecycle_stage: active
+run_id: acb1314401d54773ae4c8c9fb79b53e7
+run_name: XGBoost Classifier
+run_uuid: acb1314401d54773ae4c8c9fb79b53e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741809317642
+status: 3
+tags: []
+user_id: smalc

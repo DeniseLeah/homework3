@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/smalc/DataspellProjects/homework3/mlruns/888420775363653539/3843dd70331043e7b10881bbfe2b3355/artifacts
+end_time: 1741809311872
+entry_point_name: ''
+experiment_id: '888420775363653539'
+lifecycle_stage: active
+run_id: 3843dd70331043e7b10881bbfe2b3355
+run_name: Random Forest Classifier
+run_uuid: 3843dd70331043e7b10881bbfe2b3355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741809302647
+status: 3
+tags: []
+user_id: smalc

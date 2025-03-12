@@ -3,3 +3,7 @@ xgboost
 seaborn
 matplotlib
 pandas
+optuna
+mlflow
+catboost
+

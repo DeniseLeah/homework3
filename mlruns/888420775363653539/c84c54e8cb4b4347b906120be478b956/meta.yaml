@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/smalc/DataspellProjects/homework3/mlruns/888420775363653539/c84c54e8cb4b4347b906120be478b956/artifacts
+end_time: 1741809088511
+entry_point_name: ''
+experiment_id: '888420775363653539'
+lifecycle_stage: active
+run_id: c84c54e8cb4b4347b906120be478b956
+run_name: Decision Tree Classifier
+run_uuid: c84c54e8cb4b4347b906120be478b956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741809081644
+status: 3
+tags: []
+user_id: smalc
